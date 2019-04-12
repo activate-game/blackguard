@@ -1,6 +1,8 @@
 # Blackguard
 
-Blackguard is a real-time, collaborative adventure game.
+Blackguard is an adventure game built with [Phaser](https://github.com/photonstorm/phaser) and [React](https://github.com/facebook/react). It communicates with [Conjurer](https://github.com/activate-game/conjurer) via [Haversack](https://github.com/activate-game/haversack) to allow multiple players to collaborate on a single game session.
+
+This project was built for my [Activate](http://www.activateconf.com/) 2019 workshop, _Let’s Go On an Adventure: Building a Realtime, Collaborative Game with Web Tech_. One of the central ideas behind that workshop was that this project—and its related projects—should serve as but an MVP for a game, so PRs are welcome!
 
 ## Table of contents
 
