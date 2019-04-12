@@ -6,15 +6,14 @@ Blackguard is a real-time, collaborative adventure game.
 
 - [Getting started](#getting-started)
 - [Development](#development)
-- [Production](#production)
 - [Contributing](#contributing)
 - [Licenses](#licenses)
 
 ## Getting started
 
-First, clone the repo but:
+First, clone the repo:
 
-    git clone https://github.com/ngscheurich/blackguard.git
+    git clone https://github.com/activate-game/blackguard.git
 
 Now hop on into the project and install its dependencies:
 
@@ -27,13 +26,14 @@ That’s it! You’re started!
 To load the game in development mode, just:
 
     npm start
+    
+This will launch the game as an Electron app and automatically open the developer tools.
 
 ## Contributing
 
-Pull requests are gladly accepted, however this is an admittedly opinionated setup based on my personal preferences. If you’re looking to make big changes to workflow or tooling you should fork the project.
-
-If submit a PR, please adhere to the [Code of Conduct](https://github.com/ngscheurich/blackguard/blob/master/CODE_OF_CONDUCT.md).
+If you submit a PR, please adhere to the [Code of Conduct](https://github.com/activate-game/blackguard/blob/master/CODE_OF_CONDUCT.md).
 
 ## Licenses
 
-This project is [GPL-3.0-or-later © Nicholas Scheurich](https://github.com/ngscheurich/blackguard/blob/master/LICENSE).
+* This project is [GPL-3.0-or-later © Nicholas Scheurich](https://github.com/activate-game/blackguard/blob/master/LICENSE).
+* The remote assets used in this project are copyright Oryx Design Labs and Chevy Ray, licensed to [@ngscheurich](). Reuse or redistribution of these assets is strictly prohibited.
