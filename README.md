@@ -35,6 +35,10 @@ This will launch the game as an Electron app and automatically open the develope
 
 If you submit a PR, please adhere to the [Code of Conduct](https://github.com/activate-game/blackguard/blob/master/CODE_OF_CONDUCT.md).
 
+## Further Reading 
+
+[Rooms and Mazes: A Procedural Dungeon Generator](http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/)
+
 ## Licenses
 
 * This project is [GPL-3.0-or-later © Nicholas Scheurich](https://github.com/activate-game/blackguard/blob/master/LICENSE).
